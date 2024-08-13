@@ -1,0 +1,14 @@
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\bin\Debug\net8.0\gradingsystem.exe
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\bin\Debug\net8.0\gradingsystem.deps.json
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\bin\Debug\net8.0\gradingsystem.runtimeconfig.json
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\bin\Debug\net8.0\gradingsystem.dll
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\bin\Debug\net8.0\gradingsystem.pdb
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\gradingsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\gradingsystem.AssemblyInfoInputs.cache
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\gradingsystem.AssemblyInfo.cs
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\gradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\gradingsystem.dll
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\refint\gradingsystem.dll
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\gradingsystem.pdb
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\gradingsystem.genruntimeconfig.cache
+C:\Users\PierreRichardson\Documents\nighttechworkshop\gradingsystem\gradingsystem\obj\Debug\net8.0\ref\gradingsystem.dll
